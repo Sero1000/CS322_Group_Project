@@ -1,0 +1,8 @@
+save_dir: "data/"
+
+tatoeba: "data/tatoeba/tatoeba.csv"
+
+ted_talks:
+  train: "data/ted_talks/IWSLT12/train.tags.en-fr.en.xml"
+  dev: "data/ted_talks/IWSLT12/IWSLT12.TALK.dev2010.en-fr.en.xml"
+  test: "data/ted_talks/IWSLT12/IWSLT12.TED.MT.tst2012.en-fr.en.xml"
